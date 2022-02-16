@@ -2,10 +2,12 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: kkooda.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-start-date: November 2020
+project-end-date: Present
+client: Sorigio
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: 꾸다
+description: 사용자에게 필요한 공간과 전문가를 연결해주는 공간대여 서비스입니다.
 ---

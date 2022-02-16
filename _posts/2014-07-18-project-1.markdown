@@ -4,8 +4,11 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-start-date: June 2021
+project-end-date: Present
+client: Dongseo University
+client-site: http://www.dongseo.ac.kr
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: 인공지능 기반의 수학문제 추천시스템
+description: 학생의 성취도를 기반으로 수학문제를 추천으로 학습능력을 증진시킬 수 있도록 하는 인공지능 기반의 수학문제 추천시스템입니다.
 ---

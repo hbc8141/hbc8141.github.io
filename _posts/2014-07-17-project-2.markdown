@@ -2,10 +2,13 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: wallpaper_magazine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-start-date: June 2021
+project-end-date: Present
+client: TheNew
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Wallpaper Magazine
+description: 작가의 작품을 사용자에게 소개하고 좋아하는 작품을 공유하는 작품중개 서비스입니다.
+appstore: https://apps.apple.com/kr/app/wallpaper-magazine/id1525486513
 ---
