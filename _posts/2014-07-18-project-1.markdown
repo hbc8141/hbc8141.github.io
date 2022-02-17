@@ -11,4 +11,10 @@ client-site: http://www.dongseo.ac.kr
 category: Web Development
 title: 인공지능 기반의 수학문제 추천시스템
 description: 학생의 성취도를 기반으로 수학문제를 추천으로 학습능력을 증진시킬 수 있도록 하는 인공지능 기반의 수학문제 추천시스템입니다.
+development:
+    - position: '백앤드'
+      works: ['대학교 내 학생시스템과의 연동',
+                '수학 문제 풀기 및 오답노트',
+                '교수자가 강의 중인 분반 및 수강생 별 데이터', 
+                '단원, 개념 및 문제 등록, 수정']
 ---

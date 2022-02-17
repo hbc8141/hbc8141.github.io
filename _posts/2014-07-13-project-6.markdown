@@ -11,4 +11,9 @@ client-site: https://docl.org
 category: Web Development
 title: Covid Check Up
 description: IT기술을 활용하여 한 사람이라도 더 살려보자라는 취지에서 결성된 DOCL이라는 단체에서 제작한 코로나 자가진단 앱 서비스입니다. 환자가 자신의 증상을 스스로 모니터링하거나 연결된 의사에게 알릴 수 있으며, 의료진은 환자가 입력한 증상을 볼 수 있습니다.
+development:
+    - position: 'iOS'
+      works: ['환자 및 의료진용 어플리케이션 개발']
+    - position: '백엔드'
+      works: ['AWS의 VPC을 도입하여 서브넷을 Private와 Public으로 분리함으로써 데이터에 직접접근을 제한하여 보안 향상']
 ---

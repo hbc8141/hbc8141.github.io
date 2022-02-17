@@ -20,6 +20,22 @@
                         {% if post.description %}
                         <p>{{ post.description }}</p>
                         {% endif %}
+                        <br>
+                        <h3>담당개발</h3>
+                        <ul style="text-align: left;">
+                            {% for dev in post.development %}
+                            <li style="text-align: left;">
+                                {{dev.position}}
+                            </li>
+                            {% if post.client %}
+                            <ul style="text-align: left;">
+                                {% for work in dev.works %}
+                                <li style="text-align: left;">{{work}}</li>
+                                {% endfor %}
+                            </ul>
+                            {% endif %}
+                            {% endfor %}
+                        </ul>
                         <ul class="list-inline item-details">
                             {% if post.client %}
                             <li>Company:

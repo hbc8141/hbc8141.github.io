@@ -13,4 +13,11 @@ title: 학사 장학제도 서비스
 description: 동서대학교의 온라인 학사 장학제도인 스마일리지는 학번으로 학생인증을 하여 스마일리지를 신청하거나 조회를 할 수 있는 서비스입니다. 또한, 일정 점수 이상 적립하면 앱에서 상품 목록을 조회한 후 방문수령하거나 장학금을 신청하여 받을 수 있습니다.
 appstore: https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%EC%9D%BC%EB%A6%AC%EC%A7%80/id1534837473
 playstore: https://play.google.com/store/apps/details?id=com.dongseo.book&hl=en_US&gl=US
+development:
+    - position: 'iOS'
+      works: ['Smileage 앱 개발']
+    - position: '백엔드'
+      works: ['NodeJS를 이용하여 API서버 개발']
+    - position: '데이터베이스'
+      works: ['Smileage 데이터베이스 전체 설계']
 ---
