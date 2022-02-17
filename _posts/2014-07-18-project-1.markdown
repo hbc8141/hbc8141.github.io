@@ -17,4 +17,7 @@ development:
                 '수학 문제 풀기 및 오답노트',
                 '교수자가 강의 중인 분반 및 수강생 별 데이터', 
                 '단원, 개념 및 문제 등록, 수정']
+screenshots: [
+    'aimath/aimath_screenshot_1.png'
+]
 ---

@@ -20,4 +20,7 @@ development:
       works: ['작품 삭제 및 검색']
     - position: '백엔드'
       works: ['썸네일 생성 후 webp로 포맷을 변경하여 이미지 로딩시간을 2초 이상에서 0.2초 이내로 개선']
+screenshots: [
+    'wallpaper_magazine/wallpaper_magazine_screenshot_1.png'
+]
 ---

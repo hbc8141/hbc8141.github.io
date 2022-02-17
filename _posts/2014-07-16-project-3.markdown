@@ -21,4 +21,7 @@ development:
       'VPC를 이용하여 외부에서 DB에 직접 접근차단',
       'CloudFront, Lambda@Edge를 이용한 이미지 리사이징, 캐싱 및 Webp형식 변환을 통해 이미지 로딩시간 개선',
       '회원가입 시 이메일 인증']
+screenshots: [
+    'kkooda/kkooda_screenshot_1.png'
+]
 ---

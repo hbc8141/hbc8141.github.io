@@ -20,4 +20,7 @@ development:
       works: ['NodeJS를 이용하여 API서버 개발']
     - position: '데이터베이스'
       works: ['Smileage 데이터베이스 전체 설계']
+screenshots: [
+    'smileage/smileage_screenshot_1.png'
+]
 ---
